@@ -1,0 +1,19 @@
+{
+    "name": "miitc/bienesraices",
+    "description": "Creando un proyecto con POO",
+    "type": "project",
+    "authors": [
+        {
+            "name": "MiitchPs",
+            "email": "miitch_ps@outlook.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "./classes"
+        }
+    }
+}
